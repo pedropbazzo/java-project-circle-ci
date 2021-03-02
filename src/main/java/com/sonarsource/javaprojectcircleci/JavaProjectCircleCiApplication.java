@@ -10,4 +10,4 @@ public class JavaProjectCircleCiApplication {
 		SpringApplication.run(JavaProjectCircleCiApplication.class, args);
 	}
 
-}
+} 
